@@ -91,7 +91,7 @@ table>tbody a {
     color: blue;
 }
 
-span>p {
+footer p.bold {
     font-weight: bold;
 }
 
